@@ -1,0 +1,498 @@
+[09Jan2026 00:30:43.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bacototota lost connection: Disconnected
+[09Jan2026 00:30:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota left the game
+[09Jan2026 00:30:43.936] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Bacototota[4944dc19-54c2-3510-ae5b-43afa397df07]
+[09Jan2026 00:34:59.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bacototota[/100.88.216.38:50809] logged in with entity id 31592 at (4765.699999988079, 65.0, 2863.3065603987448)
+[09Jan2026 00:34:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota joined the game
+[09Jan2026 00:34:59.293] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Bacototota just logged in with id 4944dc19-54c2-3510-ae5b-43afa397df07
+[09Jan2026 00:34:59.294] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Bacototota[4944dc19-54c2-3510-ae5b-43afa397df07]
+[09Jan2026 00:34:59.296] [Server thread/INFO] [Jade/]: Syncing config to Bacototota (4944dc19-54c2-3510-ae5b-43afa397df07)
+[09Jan2026 00:34:59.631] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Bacototota
+[09Jan2026 01:19:11.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[09Jan2026 01:19:11.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 0.137665878181906,-11.358458026831428,0.19994319764464308
+[09Jan2026 01:19:11.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 0.06107499517293036,-10.93845803994445,0.2609731450811523
+[09Jan2026 01:19:11.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -0.09208201684032247,-10.518458053057472,0.3644294875093692
+[09Jan2026 01:19:11.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -0.313520704666189,-10.098458066170494,0.5057216900813728
+[09Jan2026 01:19:11.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.992066469358178,-3.7984582628658217,5.566630339582844
+[09Jan2026 01:19:11.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.596935373812812,-3.3784582759788435,6.083356965768871
+[09Jan2026 01:19:11.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -9.2019052785854,-2.9584582890918654,6.617026284778149
+[09Jan2026 01:19:11.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -9.806002733365858,-2.5384583022049014,7.166659737612463
+[09Jan2026 01:19:11.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -10.405980425056441,-2.1184583153179233,7.733329246012545
+[09Jan2026 01:19:11.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -11.000462849347969,-1.6984583284309451,8.316614526657759
+[09Jan2026 01:19:11.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -11.589640344105646,-1.278458341543967,8.91502434339418
+[09Jan2026 01:19:11.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -12.173470019259184,-0.8584583546569888,9.52738378028971
+[09Jan2026 01:19:11.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -12.751491834226726,-0.4384583677700107,10.152943763249823
+[09Jan2026 01:19:11.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -13.322661082683226,-0.018458380883032532,10.79145745754522
+[09Jan2026 01:19:11.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -13.88558976494096,0.4015416060039456,11.442953071093143
+[09Jan2026 01:19:11.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -14.439657775607884,0.8215415928909238,12.106992927838292
+[09Jan2026 01:19:11.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -14.983632906859384,1.241541579777902,12.783553433963789
+[09Jan2026 01:19:11.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -15.517274531392104,1.66154156666488,13.472053313689685
+[09Jan2026 01:19:11.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -16.040808333640598,2.081541553551858,14.171703162690392
+[09Jan2026 01:19:11.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -16.55487570590776,2.5015415404388364,14.881546531104505
+[09Jan2026 01:19:11.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -17.06050091567431,2.9215415273258145,15.600480480393344
+[09Jan2026 01:19:11.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -17.558374896681926,3.3415415142127927,16.327643252688176
+[09Jan2026 01:19:11.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -18.048658649666322,3.761541501099771,17.062510987443602
+[09Jan2026 01:19:11.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -18.532173437104575,4.181541487986749,17.80425000791911
+[09Jan2026 01:19:11.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -19.00941959949705,4.601541474873727,18.55224076925333
+[09Jan2026 01:19:11.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -19.48085131382868,5.021541461760705,19.305925743683474
+[09Jan2026 01:19:11.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -19.946873308480463,5.441541448647683,20.064807143810867
+[09Jan2026 01:19:11.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -13.020760095633705,10.079999685287461,15.759420693699212
+[09Jan2026 01:19:11.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 7.515711865361482,-5.773615830837855,-4.88241488409767
+[09Jan2026 01:19:11.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 7.515711865361482,-5.773615830837855,-4.88241488409767
+[09Jan2026 01:19:11.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 7.515711865361482,-5.773615830837855,-4.88241488409767
+[09Jan2026 01:19:11.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 7.515711865361482,-5.773615830837855,-4.88241488409767
+[09Jan2026 01:19:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -4.153948125209354,1.7803327320349354,9.068904247309547
+[09Jan2026 01:19:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -4.427205421094186,1.5484395473085897,9.712891473158379
+[09Jan2026 01:19:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -4.682113500279229,1.2488973268675068,10.324760107052498
+[09Jan2026 01:19:16.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -4.920362114578893,0.8843849712614826,10.908072402842663
+[09Jan2026 01:19:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.143160543519116,0.4574752966286155,11.46608521782855
+[09Jan2026 01:19:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.350990090901178,-0.029360764363957514,12.001841121073085
+[09Jan2026 01:19:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.544767175736524,-0.5737501279365347,12.517910049552484
+[09Jan2026 01:19:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.72530988647668,-1.173413684382723,13.016570162532844
+[09Jan2026 01:19:16.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.893648166396815,-1.826162576697925,13.499783798482895
+[09Jan2026 01:19:16.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.051002826698095,-2.5298946265739914,13.969241112047712
+[09Jan2026 01:19:16.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.198359038318813,-3.282590901924493,14.426468128941451
+[09Jan2026 01:19:16.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.336698780387451,-4.08231242033591,14.872806228112495
+[09Jan2026 01:19:16.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.466997634678592,-4.927196983062004,15.309433590177832
+[09Jan2026 01:19:16.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.590125625041765,-5.815456134392093,15.73740091664331
+[09Jan2026 01:19:16.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.706858638770427,-6.745372241428228,16.15764522313748
+[09Jan2026 01:19:16.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.817888612172283,-7.715295689503094,16.571002140223754
+[09Jan2026 01:19:16.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.923732715740698,-8.723642188659383,16.978234685069765
+[09Jan2026 01:19:16.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.024952060457508,-9.768890186792476,17.380005514593904
+[09Jan2026 01:19:16.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.121943397870382,-10.849578385232647,17.776923775923933
+[09Jan2026 01:19:16.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.215064207061914,-11.964303352710203,18.169531792912494
+[09Jan2026 01:19:16.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.304633242909404,-13.111717233807454,18.55831295063217
+[09Jan2026 01:19:16.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.390931020348944,-14.290525548156097,18.94369868938793
+[09Jan2026 01:19:16.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.47431148945725,-15.4994850767862,19.32605639342546
+[09Jan2026 01:19:16.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.55509030291978,-16.737401832175806,19.70571369602294
+[09Jan2026 01:19:16.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.633548959811378,-18.003129108686508,20.08296278054695
+[09Jan2026 01:19:16.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.709938501013312,-19.29556561020175,20.45806421613088
+[09Jan2026 01:19:16.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.800533076564534,-18.87556562331477,20.927927105206436
+[09Jan2026 01:19:16.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.903795702113712,-18.455565636427792,21.482298260941207
+[09Jan2026 01:19:16.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.01835569497689,-18.035565649540814,22.112033891054125
+[09Jan2026 01:19:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.14299068030141,-17.615565662653836,22.808979561355045
+[09Jan2026 01:19:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.274843911329299,-17.195565675766858,23.566144625645393
+[09Jan2026 01:19:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.40456892617749,-16.77556568887988,24.378046459536563
+[09Jan2026 01:19:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.52163883248977,-16.3555657019929,25.239293593199363
+[09Jan2026 01:19:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.601006298325046,-15.935565715105923,26.14224791066954
+[09Jan2026 01:19:16.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.610428731127286,-15.515565728218945,27.070212245549556
+[09Jan2026 01:19:16.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.531346274235148,-15.095565741331967,28.003451405337728
+[09Jan2026 01:19:16.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.362017930933689,-14.675565754444989,28.930898583800627
+[09Jan2026 01:19:16.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.10504571654019,-14.25556576755801,29.845136405387166
+[09Jan2026 01:19:16.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.7667847114880715,-13.835565780671033,30.743644943924664
+[09Jan2026 01:19:16.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.354315354189566,-13.415565793784054,31.62582783857033
+[09Jan2026 01:19:16.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.875241922956775,-12.995565806897076,32.49286606154055
+[09Jan2026 01:19:16.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -6.335116706437475,-12.575565820010098,33.34405590258575
+[09Jan2026 01:19:16.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.740344030811684,-12.15556583312312,34.180819654183324
+[09Jan2026 01:19:16.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -5.096836749750764,-11.735565846236142,35.004718218841845
+[09Jan2026 01:19:16.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -4.4096598141977665,-11.315565859349164,35.81683973215513
+[09Jan2026 01:19:16.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -3.6835382796462,-10.895565872462186,36.618458470777114
+[09Jan2026 01:19:16.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -2.9226859507061818,-10.475565885575207,37.41071083465886
+[09Jan2026 01:19:16.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -2.1308606984384824,-10.05556589868823,38.19461026530735
+[09Jan2026 01:19:16.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -1.3114137923512317,-9.635565911801251,38.97106054988308
+[09Jan2026 01:19:16.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -0.46733389467681263,-9.215565924914273,39.74086768579946
+[09Jan2026 01:19:16.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 0.3989136271711686,-8.795565938027295,40.504456904600374
+[09Jan2026 01:19:16.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 1.2849302368276767,-8.375565951140317,41.262500984757935
+[09Jan2026 01:19:16.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 2.18857691949961,-7.9555659642533385,42.01559991013164
+[09Jan2026 01:19:16.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 3.107946101739799,-7.53556597736636,42.76428874634075
+[09Jan2026 01:19:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 4.041336609499012,-7.115565990479382,43.50904466492011
+[09Jan2026 01:19:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 4.9872313357163875,-6.695566003592404,44.25029320745671
+[09Jan2026 01:19:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 5.9442773242763,-6.275566016705426,44.98841387194716
+[09Jan2026 01:19:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 6.829966762011281,-5.949030022943887,45.669029074492755
+[09Jan2026 01:19:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 7.651902061016699,-5.712256849927044,46.29853037578141
+[09Jan2026 01:19:16.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 8.41698141746474,-5.56169189163127,46.8824482986156
+[09Jan2026 01:19:16.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 9.131178517291119,-5.493921304365003,47.42596646214133
+[09Jan2026 01:19:16.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 9.799515705449267,-5.5056664325830695,47.93411785177341
+[09Jan2026 01:19:16.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 14.28701067309521,-7.53556597736636,40.02261579565402
+[09Jan2026 01:19:16.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! 14.876586523586411,-7.6970207672591755,40.47289986834039
+[09Jan2026 01:20:21.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.38047946902224794
+[09Jan2026 01:20:21.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.9642913073366799
+[09Jan2026 01:20:40.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.5084554179402403
+[09Jan2026 01:20:42.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.4132728916392807
+[09Jan2026 01:20:42.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.8457147702329166
+[09Jan2026 01:22:02.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44581, l='ServerLevel[world]', x=5760.50, y=13.00, z=4930.50]
+[09Jan2026 01:22:07.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -2.5580299559051127,-11.292555099315393,-0.059959209610497055
+[09Jan2026 01:22:07.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -2.9222248663572827,-12.955481088635693,-0.0682499313943481
+[09Jan2026 01:22:07.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -3.2862046992504474,-14.629387241357705,-0.07649289608798426
+[09Jan2026 01:22:55.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -7.500880419201167,3.7799998819828033,-6.494810518878694
+[09Jan2026 01:22:55.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -8.499627689412591,4.1999998688697815,-7.021843309049473
+[09Jan2026 01:22:55.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -9.527492098237417,4.61999985575676,-7.494100378687108
+[09Jan2026 01:22:55.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved too quickly! -10.581328716546523,5.039999842643738,-7.917140192296756
+[09Jan2026 01:23:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [You Are A Pirate]
+[09Jan2026 01:28:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota was slain by Vindicator
+[09Jan2026 01:30:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota was slain by Vindicator
+[09Jan2026 01:43:10.418] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Jan2026 01:53:46.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/53249, l='ServerLevel[world]', x=5234.64, y=68.00, z=5310.57] was struck by lightning LightningBolt['Lightning Bolt'/56018, l='ServerLevel[world]', x=5233.50, y=68.00, z=5312.50].
+[09Jan2026 01:58:19.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.3385945732925393
+[09Jan2026 01:58:19.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.5
+[09Jan2026 01:58:20.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.3947360526999546
+[09Jan2026 01:59:49.345] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@55193d6e[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:59832): Took too long to log in
+[09Jan2026 01:59:49.346] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55193d6e[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:59832) lost connection: Took too long to log in
+[09Jan2026 01:59:49.398] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 02:00:02.300] [Worker-Main-214/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[09Jan2026 02:00:02.301] [Worker-Main-214/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[09Jan2026 02:00:02.301] [Worker-Main-214/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[09Jan2026 02:00:07.029] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[09Jan2026 02:00:07.030] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[09Jan2026 02:00:07.031] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[09Jan2026 02:00:53.675] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@748abbdd[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:51880) lost connection: Disconnected
+[09Jan2026 02:01:27.066] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2bb98692[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:54516): Took too long to log in
+[09Jan2026 02:01:27.067] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bb98692[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:54516) lost connection: Took too long to log in
+[09Jan2026 02:01:27.080] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 02:02:16.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2e23dadb[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:49351): Took too long to log in
+[09Jan2026 02:02:16.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e23dadb[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:49351) lost connection: Took too long to log in
+[09Jan2026 02:02:16.874] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 02:03:28.624] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@52d0be0e[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:64000): Took too long to log in
+[09Jan2026 02:03:28.625] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52d0be0e[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:64000) lost connection: Took too long to log in
+[09Jan2026 02:03:28.677] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 02:04:20.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
+[09Jan2026 02:07:00.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4521ms or 90 ticks behind
+[09Jan2026 02:11:56.499] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a45e56[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:51963) lost connection: Disconnected
+[09Jan2026 02:28:46.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=985, y=71, z=7153} BlockPos{x=985, y=71, z=7154}
+[09Jan2026 02:28:46.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=985, y=71, z=7153} BlockPos{x=985, y=71, z=7154}
+[09Jan2026 02:33:26.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Ant Farm]
+[09Jan2026 02:35:29.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [We do a little trolling...]
+[09Jan2026 02:46:43.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91307, l='ServerLevel[world]', x=-337.50, y=150.55, z=7080.46] died, message: 'Unemployed tried to swim in lava'
+[09Jan2026 02:46:46.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91306, l='ServerLevel[world]', x=-347.61, y=149.17, z=7085.72] died, message: 'Unemployed burned to death'
+[09Jan2026 02:57:38.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server hey
+[09Jan2026 02:57:48.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jan2026 02:57:48.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Con la "t" escribis<--[HERE]
+[09Jan2026 02:57:50.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bacototota> q
+[09Jan2026 02:57:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Server meet
+[09Jan2026 02:57:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bacototota> Bitch
+[09Jan2026 02:58:16.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bacototota> Ahí estoy
+[09Jan2026 02:58:27.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bacototota> Mira el chat
+[09Jan2026 02:59:11.749] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Jan2026 03:00:25.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5260ms or 105 ticks behind
+[09Jan2026 03:02:22.920] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@8ff4120[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:60352): Took too long to log in
+[09Jan2026 03:02:22.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8ff4120[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:60352) lost connection: Took too long to log in
+[09Jan2026 03:02:22.971] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 03:04:37.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@79d7dea5[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:51171): Took too long to log in
+[09Jan2026 03:04:37.481] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79d7dea5[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:51171) lost connection: Took too long to log in
+[09Jan2026 03:04:37.525] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 03:08:14.522] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@34ca1a07[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:51181): Took too long to log in
+[09Jan2026 03:08:14.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34ca1a07[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:51181) lost connection: Took too long to log in
+[09Jan2026 03:08:14.574] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 03:08:33.125] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Jan2026 03:09:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has completed the challenge [The Power of the Sun]
+[09Jan2026 03:10:41.286] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[09Jan2026 03:10:56.603] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[09Jan2026 03:11:17.977] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[09Jan2026 03:11:25.606] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[09Jan2026 03:11:32.823] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[09Jan2026 03:14:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[09Jan2026 03:14:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Bacototota: Kicked by an operator
+[09Jan2026 03:14:14.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bacototota lost connection: Kicked by an operator
+[09Jan2026 03:14:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota left the game
+[09Jan2026 03:14:14.366] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Bacototota[4944dc19-54c2-3510-ae5b-43afa397df07]
+[09Jan2026 03:14:26.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bacototota[/100.88.216.38:63539] logged in with entity id 105427 at (-2322.0694627989847, 168.13013432903898, 6014.944588277868)
+[09Jan2026 03:14:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota joined the game
+[09Jan2026 03:14:27.308] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Bacototota just logged in with id 4944dc19-54c2-3510-ae5b-43afa397df07
+[09Jan2026 03:14:27.309] [Server thread/INFO] [Jade/]: Syncing config to Bacototota (4944dc19-54c2-3510-ae5b-43afa397df07)
+[09Jan2026 03:14:27.309] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Bacototota[4944dc19-54c2-3510-ae5b-43afa397df07]
+[09Jan2026 03:14:27.698] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Bacototota
+[09Jan2026 03:15:13.845] [Worker-Main-214/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[09Jan2026 03:15:16.683] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[09Jan2026 03:15:16.683] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[09Jan2026 03:15:17.844] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[09Jan2026 03:15:20.917] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[09Jan2026 03:15:20.918] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[09Jan2026 03:15:50.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.29180731457745424
+[09Jan2026 03:15:50.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 1.1172503448688076
+[09Jan2026 03:15:57.627] [Worker-Main-218/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[09Jan2026 03:16:43.230] [Worker-Main-215/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[09Jan2026 03:17:36.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.229.56:50753] logged in with entity id 107548 at (8913.44458815473, 66.0, 5632.183576868687)
+[09Jan2026 03:17:36.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[09Jan2026 03:17:36.806] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[09Jan2026 03:17:36.807] [Server thread/INFO] [Jade/]: Syncing config to Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249)
+[09Jan2026 03:17:36.808] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 03:17:36.864] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[09Jan2026 03:17:37.018] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://crafatar.com/capes/f588ca6b-8b11-498c-9d7f-5d9d438f21a5
+[09Jan2026 03:19:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 03:21:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [The Power of the Sun]
+[09Jan2026 03:22:59.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 03:32:04.221] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b74872c[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:58605) lost connection: Disconnected
+[09Jan2026 03:32:44.224] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2d9fd7c[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:58612): Took too long to log in
+[09Jan2026 03:32:44.224] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d9fd7c[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:58612) lost connection: Took too long to log in
+[09Jan2026 03:32:44.272] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 03:34:03.720] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4e1f60bf[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:58615): Took too long to log in
+[09Jan2026 03:34:03.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e1f60bf[id=<null>,name=XupaPonChito,properties={},legacy=false] (/100.83.237.87:58615) lost connection: Took too long to log in
+[09Jan2026 03:34:03.772] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2026 03:37:14.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 03:38:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Called Your Bluff]
+[09Jan2026 03:42:27.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Called Your Bluff]
+[09Jan2026 04:02:13.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.36828993537164934
+[09Jan2026 04:02:13.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6971913200077324
+[09Jan2026 04:02:19.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6031561109375616
+[09Jan2026 04:02:19.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 1.442075130790272
+[09Jan2026 04:02:46.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.253170048679749
+[09Jan2026 04:02:46.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.9987837171638603
+[09Jan2026 04:02:46.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6472994116174959
+[09Jan2026 04:02:46.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6706331887307897
+[09Jan2026 04:02:46.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6828811455588948
+[09Jan2026 04:02:46.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6894347830602783
+[09Jan2026 04:02:46.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6929415038212028
+[09Jan2026 04:02:46.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6948178801840186
+[09Jan2026 04:02:46.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.695821891765263
+[09Jan2026 04:02:46.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6963591183448443
+[09Jan2026 04:02:46.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6968075158438296
+[09Jan2026 04:02:46.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6975926905497545
+[09Jan2026 04:02:46.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6984508926680064
+[09Jan2026 04:02:47.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6990100550738134
+[09Jan2026 04:02:47.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6993273829848476
+[09Jan2026 04:02:47.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6994971788235489
+[09Jan2026 04:02:47.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6995880331915032
+[09Jan2026 04:02:47.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6996366475523246
+[09Jan2026 04:02:47.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6996626601276148
+[09Jan2026 04:02:47.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6996765789381243
+[09Jan2026 04:02:47.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997000783858311
+[09Jan2026 04:02:47.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997254331381555
+[09Jan2026 04:02:47.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997389999614825
+[09Jan2026 04:02:47.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997462592971715
+[09Jan2026 04:02:47.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997501436235325
+[09Jan2026 04:02:47.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997522220490282
+[09Jan2026 04:02:47.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997533341727831
+[09Jan2026 04:02:47.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6997539292488
+[09Jan2026 04:02:47.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.30777932822365983
+[09Jan2026 04:05:51.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.2793823220940794
+[09Jan2026 04:05:51.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aki (vehicle of Bacototota) moved wrongly! 0.6231019285769435
+[09Jan2026 04:06:25.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! 1.1258997424520203,-5.041104287410121,-8.603438827285572
+[09Jan2026 04:47:27.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved wrongly! 0.5590953804394303
+[09Jan2026 04:47:27.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved wrongly! 1.401781645607116
+[09Jan2026 04:48:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 04:52:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [We do a little trolling...]
+[09Jan2026 05:00:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 05:01:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Imperial March]
+[09Jan2026 05:13:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota was slain by Wither Skeleton
+[09Jan2026 05:13:17.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 05:14:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 05:14:30.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 05:17:30.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 05:18:17.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Ol' Betsy]
+[09Jan2026 05:20:37.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 05:22:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 05:22:26.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 05:47:28.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4593ms or 91 ticks behind
+[09Jan2026 06:16:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 06:16:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 06:17:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 06:26:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 06:39:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 06:45:58.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 06:49:25.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[09Jan2026 06:49:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[09Jan2026 06:49:25.279] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 06:55:55.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota was slain by Wither Skeleton
+[09Jan2026 07:00:00.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.229.56:51559] logged in with entity id 173867 at (8802.749844304797, 208.0, 5872.754955852941)
+[09Jan2026 07:00:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[09Jan2026 07:00:00.101] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[09Jan2026 07:00:00.102] [Server thread/INFO] [Jade/]: Syncing config to Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249)
+[09Jan2026 07:00:00.103] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 07:00:00.207] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[09Jan2026 07:00:00.369] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://crafatar.com/capes/f588ca6b-8b11-498c-9d7f-5d9d438f21a5
+[09Jan2026 07:08:15.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Bonfire Lit]
+[09Jan2026 07:21:33.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Oh Shiny]
+[09Jan2026 07:35:31.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 07:37:00.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 07:48:55.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2026 07:49:04.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Jan2026 07:57:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Cutest Predator]
+[09Jan2026 08:06:59.312] [Worker-Main-320/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[09Jan2026 08:07:00.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[09Jan2026 08:10:40.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 08:10:42.533] [Worker-Main-504/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jan2026 08:10:42.603] [Worker-Main-504/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jan2026 08:10:42.709] [Worker-Main-504/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jan2026 08:10:42.721] [Worker-Main-504/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jan2026 08:10:42.764] [Worker-Main-504/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jan2026 08:10:42.931] [Worker-Main-504/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[09Jan2026 08:10:46.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6398ms or 127 ticks behind
+[09Jan2026 08:10:48.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[09Jan2026 08:10:48.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[09Jan2026 08:10:48.476] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:10:54.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.229.56:51858] logged in with entity id 203515 at (4743.848749770293, 64.0, 2893.5257781677005)
+[09Jan2026 08:10:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[09Jan2026 08:10:54.894] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[09Jan2026 08:10:54.895] [Server thread/INFO] [Jade/]: Syncing config to Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249)
+[09Jan2026 08:10:54.895] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:10:54.984] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[09Jan2026 08:10:55.206] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://crafatar.com/capes/f588ca6b-8b11-498c-9d7f-5d9d438f21a5
+[09Jan2026 08:12:53.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[09Jan2026 08:12:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[09Jan2026 08:12:53.040] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:12:53.166] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:12:53.166] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:12:57.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.229.56:51873] logged in with entity id 205059 at (1390.3999999761581, 71.79999995231628, -659.4127132010545)
+[09Jan2026 08:12:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[09Jan2026 08:12:57.701] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[09Jan2026 08:12:57.701] [Server thread/INFO] [Jade/]: Syncing config to Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249)
+[09Jan2026 08:12:57.703] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:12:57.761] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[09Jan2026 08:12:57.859] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://crafatar.com/capes/f588ca6b-8b11-498c-9d7f-5d9d438f21a5
+[09Jan2026 08:13:43.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A New Protector...]
+[09Jan2026 08:17:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Hot Tourist Destinations]
+[09Jan2026 08:23:12.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has completed the challenge [Return to Sender]
+[09Jan2026 08:24:30.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Vault Breaker]
+[09Jan2026 08:25:03.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:25:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Vault Breaker]
+[09Jan2026 08:26:59.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:27:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:27:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Bloody Cult]
+[09Jan2026 08:27:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [The Bloody Cult]
+[09Jan2026 08:28:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Bloodymancer]
+[09Jan2026 08:29:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 08:31:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:35:58.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Hidden in the Dark]
+[09Jan2026 08:38:50.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
+[09Jan2026 08:39:03.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:39:38.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=41, z=-1232} BlockPos{x=146, y=41, z=-1232}
+[09Jan2026 08:39:38.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=41, z=-1232} BlockPos{x=146, y=41, z=-1232}
+[09Jan2026 08:39:39.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=41, z=-1232} BlockPos{x=146, y=41, z=-1232}
+[09Jan2026 08:39:39.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=41, z=-1232} BlockPos{x=146, y=41, z=-1232}
+[09Jan2026 08:39:39.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=41, z=-1232} BlockPos{x=146, y=41, z=-1232}
+[09Jan2026 08:40:48.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[09Jan2026 08:41:33.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[09Jan2026 08:42:16.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=47, z=-1187} BlockPos{x=156, y=50, z=-1187}
+[09Jan2026 08:43:56.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -4.665055197879326,1.6688973137544991,-8.882814502642304
+[09Jan2026 08:43:56.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -4.876807378592446,1.304384958148475,-9.392528352686895
+[09Jan2026 08:43:56.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -5.090791154663009,0.8774752835156221,-9.87716543605734
+[09Jan2026 08:43:56.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -5.306765067530705,0.39063922252306327,-10.339439058263451
+[09Jan2026 08:43:56.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -5.524513784445219,-0.1537501410494997,-10.78176894522835
+[09Jan2026 08:43:56.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -5.743845271654266,-0.753413697495688,-11.206313008592588
+[09Jan2026 08:43:56.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -5.964749375285351,-1.40616258981089,-11.614860248003652
+[09Jan2026 08:43:56.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -6.189784678552769,-2.1098946396869565,-12.006603236778574
+[09Jan2026 08:43:56.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -6.421799483443749,-2.8625909150374724,-12.379521837515313
+[09Jan2026 08:43:56.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -6.663867153977833,-3.662312433448875,-12.729429497572255
+[09Jan2026 08:43:56.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -7.006164619850324,-3.242312446561897,-13.094782342556982
+[09Jan2026 08:43:56.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -7.439145974825124,-2.8223124596749187,-13.470717146957668
+[09Jan2026 08:43:56.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -7.952999224432006,-2.4023124727879406,-13.856088943037548
+[09Jan2026 08:43:56.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -8.5389740317504,-1.9823124859009624,-14.249876648539384
+[09Jan2026 08:43:56.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -9.189266846089481,-1.5623124990139843,-14.651169662280154
+[09Jan2026 08:43:56.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -9.896918460742711,-1.1423125121270061,-15.059155910101254
+[09Jan2026 08:43:56.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -10.655722654990313,-0.722312525240028,-15.473111184247273
+[09Jan2026 08:43:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -11.368915817721302,-0.39577653147848935,-15.856594545312191
+[09Jan2026 08:43:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -12.041433061373539,-0.15900335846164637,-16.2129030535084
+[09Jan2026 08:43:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -12.67767551934594,-0.00843840016587194,-16.544977027217783
+[09Jan2026 08:43:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -13.28156812251666,0.05933218710039512,-16.855438642448917
+[09Jan2026 08:43:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -13.85663714363335,0.04758705888232839,-17.14655986014691
+[09Jan2026 08:43:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -14.406736924922598,-0.040524963973211925,-17.418381702938632
+[09Jan2026 08:43:56.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -14.935464704799301,-0.20197975386602707,-17.669809680916387
+[09Jan2026 08:43:56.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -15.440500547031945,-0.43387293859235854,-17.915865506728323
+[09Jan2026 08:43:56.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -16.02272149422987,-0.013872951705380387,-18.164231976107203
+[09Jan2026 08:43:56.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -16.674639633443633,0.40612703518159776,-18.41039808417986
+[09Jan2026 08:43:56.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -17.38884657822848,0.8261270220685759,-18.653876400611125
+[09Jan2026 08:43:56.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -18.158602681422508,1.246127008955554,-18.89495774438751
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -18.977897525513526,1.6661269958425322,-19.133901467888563
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -19.841371020009717,2.0861269827295104,-19.370938861573222
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -20.744243036072703,2.5061269696164885,-19.606276190278777
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -21.583554714138415,2.7795834004186304,-19.837009474562592
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -22.363960480770913,2.7027513989232688,-20.06690015069489
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -23.08283241335488,2.5521299417556236,-20.295491289138226
+[09Jan2026 08:43:56.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -23.749805594905467,2.330641089981029,-20.513292383090402
+[09Jan2026 08:43:56.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -24.377776723291333,2.0410911911012732,-20.728426232616812
+[09Jan2026 08:43:56.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -24.96995640394482,1.6861754613095314,-20.942703477814803
+[09Jan2026 08:43:56.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[09Jan2026 08:43:56.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chobi (vehicle of Ombid) moved too quickly! -21.09105271345021,-0.6999571479074973,-12.802956996115881
+[09Jan2026 08:46:56.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-528, y=49, z=-1241} BlockPos{x=-529, y=47, z=-1240}
+[09Jan2026 08:48:40.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:57:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 08:57:46.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota died
+[09Jan2026 08:57:59.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 08:58:10.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[09Jan2026 08:58:10.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[09Jan2026 08:58:10.123] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:58:14.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.229.56:52089] logged in with entity id 226765 at (-2574.6780432714786, 78.30000000000001, -2231.9936108204006)
+[09Jan2026 08:58:14.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[09Jan2026 08:58:14.719] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[09Jan2026 08:58:14.720] [Server thread/INFO] [Jade/]: Syncing config to Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249)
+[09Jan2026 08:58:14.720] [ForkJoinPool-3-worker-15/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:58:14.807] [ForkJoinPool-3-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[09Jan2026 08:58:14.928] [ForkJoinPool-3-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://crafatar.com/capes/f588ca6b-8b11-498c-9d7f-5d9d438f21a5
+[09Jan2026 08:59:09.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[09Jan2026 08:59:09.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[09Jan2026 08:59:09.571] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:59:13.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.229.56:52095] logged in with entity id 226886 at (-2585.1162057208503, 76.0, -2220.9501060365783)
+[09Jan2026 08:59:13.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[09Jan2026 08:59:14.022] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[09Jan2026 08:59:14.023] [Server thread/INFO] [Jade/]: Syncing config to Ombid (300f2cb3-73b8-369a-bd50-5b2db1878249)
+[09Jan2026 08:59:14.023] [ForkJoinPool-3-worker-15/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 08:59:14.064] [ForkJoinPool-3-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[09Jan2026 08:59:14.157] [ForkJoinPool-3-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://crafatar.com/capes/f588ca6b-8b11-498c-9d7f-5d9d438f21a5
+[09Jan2026 09:01:53.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Port o Magma]
+[09Jan2026 09:02:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has completed the challenge [Hot Tourist Destinations]
+[09Jan2026 09:02:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [Straddle My Ol' Saddle]
+[09Jan2026 09:03:17.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 09:03:28.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 09:03:58.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [A Infernal Fortress]
+[09Jan2026 09:06:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota has made the advancement [A Infernal Fortress]
+[09Jan2026 09:08:28.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 09:08:41.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4557ms or 91 ticks behind
+[09Jan2026 09:09:02.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to Bacototota]
+[09Jan2026 09:11:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bacototota: Teleported Bacototota to Ombid]
+[09Jan2026 09:14:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Who is Cutting Onions?]
+[09Jan2026 09:15:51.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 09:15:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Bacototota to Ombid]
+[09Jan2026 09:16:12.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8553ms or 171 ticks behind
+[09Jan2026 09:21:02.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bacototota lost connection: Disconnected
+[09Jan2026 09:21:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bacototota left the game
+[09Jan2026 09:21:02.787] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Bacototota[4944dc19-54c2-3510-ae5b-43afa397df07]
+[09Jan2026 09:21:10.192] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[09Jan2026 09:21:10.192] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[09Jan2026 09:21:10.192] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[09Jan2026 09:21:10.407] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[09Jan2026 09:21:10.408] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[09Jan2026 09:21:10.408] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[09Jan2026 09:21:11.309] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[09Jan2026 09:21:11.310] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[09Jan2026 09:21:24.247] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[09Jan2026 09:21:24.247] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[09Jan2026 09:21:24.247] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[09Jan2026 09:21:24.248] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[09Jan2026 09:21:24.248] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[09Jan2026 09:21:24.248] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[09Jan2026 09:21:24.248] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[09Jan2026 09:21:24.249] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[09Jan2026 09:21:24.249] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[09Jan2026 09:21:39.261] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[09Jan2026 09:21:39.261] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[09Jan2026 09:21:39.262] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[09Jan2026 09:21:39.544] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[09Jan2026 09:21:39.545] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[09Jan2026 09:21:39.545] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[09Jan2026 09:21:39.975] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[09Jan2026 09:21:39.975] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[09Jan2026 09:21:39.975] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[09Jan2026 09:21:39.976] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[09Jan2026 09:21:39.976] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[09Jan2026 09:21:39.976] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[09Jan2026 09:21:39.976] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[09Jan2026 09:21:39.976] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[09Jan2026 09:21:39.976] [Worker-Main-504/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[09Jan2026 09:21:55.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[09Jan2026 09:21:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[09Jan2026 09:21:55.933] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[09Jan2026 09:23:15.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jan2026 09:23:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2026 09:23:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2026 09:23:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jan2026 09:23:16.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jan2026 09:23:19.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jan2026 09:23:19.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jan2026 09:23:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jan2026 09:23:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2026 09:23:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jan2026 09:23:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jan2026 09:23:22.684] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jan2026 09:23:22.685] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09Jan2026 09:23:22.689] [Server thread/INFO] [Framework/]: Finished unloading server configs
